@@ -1,5 +1,5 @@
 [
-{"port":4000,"type":"tcp","host":"8.8.8.8","name":"check1","tags":["string","list"]},
+{"port":4000,"type":"tcp","host":"google.com:443","name":"check1","tags":["string","list"]},
 {"port":4000,"type":"tcp","host":"1.123.123.123","name":"check153","tags":["string","list"]},
 {"port":4000,"type":"tcp","host":"1.123.123.123","name":"check4","tags":["string","list"]},
 {"port":4000,"type":"tcp","host":"1.123.123.123","name":"check6","tags":["string","list"]}
